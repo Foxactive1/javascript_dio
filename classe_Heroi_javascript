@@ -29,4 +29,4 @@ class Heroi {
 
 // Exemplo de uso da classe Heroi de uso geral.
 const meuHeroi = new Heroi('Aragorn', 35, 'guerreiro');
-meuHeroi.atacar(); // Saída: O guerreiro atacou usando espada
+meuHeroi.atacar(); // SaÃ­da: O guerreiro atacou usando espada
